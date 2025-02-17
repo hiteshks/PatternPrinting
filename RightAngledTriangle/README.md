@@ -1,3 +1,5 @@
+Right Angled triangle Patter
+
 *
 **
 ***
