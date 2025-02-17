@@ -1,7 +1,0 @@
-Inverted Right-Angled Triangle
-
-*****
-****
-***
-**
-*
